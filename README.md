@@ -12,4 +12,4 @@
 ![控制面板](https://github.com/CoolestEnoch/ProcessorTurboBoostTool_joke/blob/main/ctrlPanel.png)
 
 
-![设置](https://github.com/CoolestEnoch/ProcessorTurboBoostTool_joke/blob/main/settingsl.png)
+![设置](https://github.com/CoolestEnoch/ProcessorTurboBoostTool_joke/blob/main/settings.png)
